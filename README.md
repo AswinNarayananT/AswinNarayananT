@@ -6,21 +6,21 @@ I'm a **BSc Mathematics graduate** with a passion for **problem-solving, system 
 ## 🛠 Tech Stack
 ### Backend:
 - **Python** | **Django & Django REST Framework**
-- PostgreSQL | MySQL
+- **MongoDB** | PostgreSQL | MySQL
 - Authentication (OTP, Google Sign-In, JWT, OAuth2)
 - Stripe Payment Integration
 - WebSockets (Real-time chat & video calls)
 
 ### Frontend:
-- **React.js** | **React Three Fiber** | Vite
+- **JavaScript** | **React.js** | Vite
 - Redux Toolkit (State Management)
-- Tailwind CSS | ShadCN UI | Chakra UI
+- **Tailwind CSS**
 - WebRTC (Video Calls & Live Streaming)
 
 ### DevOps & Tools:
-- Docker | CI/CD (GitHub Actions)
+- CI/CD (GitHub Actions)
 - Cloudinary (Media Storage)
-- AWS S3, EC2, Lambda (Cloud Services)
+- AWS S3, EC2
 - Git & GitHub (Version Control)
 
 ## 💡 Projects
@@ -39,9 +39,8 @@ A full-fledged e-commerce platform with:
 - **Order Tracking & Customer Dashboard**
 
 ## 📫 Connect With Me
-- **LinkedIn:** [linkedin.com/in/aswin-narayanan](#)
-- **GitHub:** [github.com/aswin-narayanan](#)
-- **Portfolio:** [aswin.dev](#)
+- **LinkedIn:** [www.linkedin.com/in/aswin-nt](www.linkedin.com/in/aswin-nt)
+- **GitHub:** [github.com/AswinNarayananT](https://github.com/AswinNarayananT)
 
 Let's build something amazing together! 🚀
 
